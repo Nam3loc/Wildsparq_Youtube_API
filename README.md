@@ -34,8 +34,11 @@ Duration:
 - 
 - 
 
+<!-- ## Wireframes
+![Wireframes](./src/assets/wireframes/ngtube_wireframes.pdf) -->
 ## Wireframes
-![Wireframes](./src/assets/wireframes/ngtube_wireframes.pdf)
+<img src="./src/assets/wireframes/ngtube_wireframes.png" alt="Wireframes">
+
 
 ## Setup
 - git clone *repo*
