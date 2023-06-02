@@ -34,10 +34,8 @@ Duration:
 - 
 - 
 
-<!-- ## Wireframes
-![Wireframes](./src/assets/wireframes/ngtube_wireframes.pdf) -->
 ## Wireframes
-<img src="./src/assets/wireframes/ngtube_wireframes.png" alt="Wireframes">
+![Wireframes](./src/assets/wireframes/ngtube_wireframes_picture.png)
 
 
 ## Setup
