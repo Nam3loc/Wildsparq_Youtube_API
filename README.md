@@ -1,27 +1,67 @@
-# WildsparqYoutubeApi
+# Shopping Cart
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.4.
+>  
 
-## Development server
+[Youtube API Project]()
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Deployed Link: 
 
-## Code scaffolding
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Setup](#setup)
+* [Usage](#usage)
+* [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
+* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## General Information
+Duration: 
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Angular
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Features
+- 
+- 
+- 
 
-## Running end-to-end tests
+## Screenshots
+<!-- Add screenshots if available -->
+![Example screenshot]()
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Setup
+- git clone *repo*
+- npm i
+- ng serve
 
-## Further help
+## Usage
+1. 
+2. 
+3. 
+4. 
+5. 
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Project Status
+The project is complete and fully functional.
+
+## Room for Improvement
+- 
+- 
+- 
+- 
+
+## Acknowledgements
+- 
+- 
+
+## Contact
+Created by @Nam3loc on GitHub - feel free to contact me!
