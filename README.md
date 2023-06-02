@@ -36,7 +36,7 @@ Duration:
 
 ## Screenshots
 <!-- Add screenshots if available -->
-![Example screenshot](./src/assets/wireframes/ngtube_wireframes.pdf)
+./src/assets/wireframes/ngtube_wireframes.pdf
 
 ## Setup
 - git clone *repo*
