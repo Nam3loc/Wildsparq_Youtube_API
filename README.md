@@ -10,7 +10,7 @@ Deployed Link:
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-* [Screenshots](#screenshots)
+* [Wireframes](#wireframes)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
@@ -34,9 +34,8 @@ Duration:
 - 
 - 
 
-## Screenshots
-<!-- Add screenshots if available -->
-[./src/assets/wireframes/ngtube_wireframes.pdf]
+## Wireframes
+![Wireframes](./src/assets/wireframes/ngtube_wireframes.pdf)
 
 ## Setup
 - git clone *repo*
