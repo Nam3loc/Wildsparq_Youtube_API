@@ -1,4 +1,4 @@
-# Shopping Cart
+# NgTube
 
 >  
 
@@ -36,12 +36,13 @@ Duration:
 
 ## Screenshots
 <!-- Add screenshots if available -->
-![Example screenshot]()
+![Example screenshot](./src/assets/wireframes/ngtube_wireframes.pdf)
 
 ## Setup
 - git clone *repo*
 - npm i
 - ng serve
+- Enter this into the search bar in your browser: http://localhost:4200/
 
 ## Usage
 1. 

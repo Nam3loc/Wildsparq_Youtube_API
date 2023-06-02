@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { environment } from 'src/environments/environment.development';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +7,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'wildsparq_youtube_api';
+  title: string = 'Wildsparq Take Home Project - Youtube API';
+  apiKey: string = environment.apiKey;
 }
