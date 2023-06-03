@@ -6,6 +6,7 @@ import { environment } from 'src/environments/environment.development';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
+
 export class AppComponent {
   title: string = 'Wildsparq Take Home Project - Youtube API';
   apiKey: string = environment.apiKey;

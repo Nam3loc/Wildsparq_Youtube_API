@@ -1,0 +1,9 @@
+.p-4 {
+  height: 220px;
+}
+
+.card-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
